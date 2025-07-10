@@ -8,25 +8,25 @@ Welcome to the **Document Converter Website**! This open-source project is desig
 
 ### Core Features:
 
-- **Image Format Conversion**:
-  - Convert JPEG to PNG or JPG.
-  - Convert PNG to JPEG or JPG.
-  - Convert JPG to JPEG or PNG.
+- **Image Format Conversion**  
+  Effortlessly convert between popular image formats:
+  - JPEG ↔ PNG ↔ JPG
 
-- **Image-to-PDF Conversion**:
-  - Convert single or multiple images (JPEG, PNG, JPG) into a PDF.
-  - Customize PDF settings such as page orientation, size, and margins.
+- **Image-to-PDF Conversion**  
+  Combine one or more images (JPEG, PNG, JPG) into a single PDF.  
+  - Customize PDF settings: page orientation, size, and margins.
 
-- **PDF-to-Image Conversion**:
-  - Extract all or specific pages from a PDF as images in JPEG, PNG, or JPG format.
+- **PDF-to-Image Conversion**  
+  Extract all or selected pages from a PDF as images (JPEG, PNG, JPG).
 
-- **Document Compression**:
-  - Compress PDFs directly in the browser to reduce file size while maintaining quality.
+- **Document Compression**  
+  Compress PDF files directly in your browser to reduce file size while maintaining quality.
 
-- **Image Editing Tools**:
-  - Crop images to specific dimensions or aspect ratios.
-  - Rotate images clockwise or counterclockwise to desired angles.
-  - Adjust brightness, contrast, and sharpness for clarity.
+- **Image Editing Tools**  
+  Edit images before conversion or upload:
+  - Crop to specific dimensions or aspect ratios.
+  - Rotate to any angle.
+  - Adjust brightness, contrast, and sharpness.
 
 ### Exam-Specific Features:
 

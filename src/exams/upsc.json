@@ -1,0 +1,19 @@
+{
+  "examName": "UPSC CSE",
+  "documents": [
+    {
+      "name": "Photograph",
+      "required": true,
+      "formats": ["JPG", "JPEG"],
+      "sizeLimitMB": 0.02,
+      "resolution": "350x350 pixels"
+    },
+    {
+      "name": "Signature",
+      "required": true,
+      "formats": ["JPG", "JPEG"],
+      "sizeLimitMB": 0.02,
+      "resolution": "350x350 pixels"
+    }
+  ]
+}

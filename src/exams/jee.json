@@ -1,0 +1,19 @@
+{
+  "examName": "JEE Main",
+  "documents": [
+    {
+      "name": "Photograph",
+      "required": true,
+      "formats": ["JPG", "JPEG"],
+      "sizeLimitMB": 0.2,
+      "resolution": "200x230 pixels"
+    },
+    {
+      "name": "Signature",
+      "required": true,
+      "formats": ["JPG", "JPEG"],
+      "sizeLimitMB": 0.05,
+      "resolution": "140x60 pixels"
+    }
+  ]
+}

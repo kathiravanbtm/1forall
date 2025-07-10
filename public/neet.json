@@ -1,0 +1,87 @@
+{
+  "examName": "NEET UG",
+  "documents": [
+    {
+      "name": "Photograph",
+      "required": true,
+      "formats": ["JPEG", "JPG"],
+      "sizeMinKB": 10,
+      "sizeMaxKB": 200,
+      "dimensions": "3.5 cm x 4.5 cm",
+      "otherRequirements": "Clear image with a white background, no caps/goggles, face 80% of the photo area."
+    },
+    {
+      "name": "Signature",
+      "required": true,
+      "formats": ["JPEG", "JPG"],
+      "sizeMinKB": 4,
+      "sizeMaxKB": 30,
+      "dimensions": "3.5 cm x 1.5 cm to 4.5 cm x 1.5 cm",
+      "otherRequirements": "Black ink on white paper, clear and legible."
+    },
+    {
+      "name": "Identity Proof",
+      "required": true,
+      "formats": ["JPEG", "JPG", "PDF"],
+      "sizeMinKB": 50,
+      "sizeMaxKB": 200,
+      "acceptedProofs": ["Aadhar", "PAN Card", "Voter ID", "Passport", "Driving License"]
+    },
+    {
+      "name": "Category Certificate",
+      "required": false,
+      "formats": ["JPEG", "JPG", "PDF"],
+      "sizeMinKB": 100,
+      "sizeMaxKB": 300,
+      "for": "SC/ST/OBC-NCL/EWS candidates."
+    },
+    {
+      "name": "PwD Certificate",
+      "required": false,
+      "formats": ["JPEG", "JPG", "PDF"],
+      "sizeMinKB": 100,
+      "sizeMaxKB": 300,
+      "for": "Persons with Disabilities."
+    },
+    {
+      "name": "Class 10th Marksheet/Certificate",
+      "required": true,
+      "formats": ["JPEG", "JPG", "PDF"],
+      "sizeMinKB": 100,
+      "sizeMaxKB": 500,
+      "for": "Proof of date of birth."
+    },
+    {
+      "name": "Class 12th Marksheet/Certificate",
+      "required": false,
+      "formats": ["JPEG", "JPG", "PDF"],
+      "sizeMinKB": 100,
+      "sizeMaxKB": 500,
+      "for": "Proof of educational qualification."
+    },
+    {
+      "name": "Domicile Certificate",
+      "required": false,
+      "formats": ["JPEG", "JPG", "PDF"],
+      "sizeMinKB": 100,
+      "sizeMaxKB": 500,
+      "for": "Candidates applying under state quotas."
+    },
+    {
+      "name": "EWS Certificate",
+      "required": false,
+      "formats": ["JPEG", "JPG", "PDF"],
+      "sizeMinKB": 100,
+      "sizeMaxKB": 300,
+      "for": "Candidates claiming EWS quota."
+    },
+    {
+      "name": "Nationality Proof",
+      "required": false,
+      "formats": ["JPEG", "JPG", "PDF"],
+      "sizeMinKB": 100,
+      "sizeMaxKB": 500,
+      "for": "Foreign nationals or candidates from outside India."
+    }
+  ]
+}
