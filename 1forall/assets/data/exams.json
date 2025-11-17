@@ -1,0 +1,275 @@
+[
+  {
+    "id": "jee-main",
+    "title": "JEE Main",
+    "icon": "📚",
+    "description": "Joint Entrance Examination Main",
+    "documents": [
+      {
+        "id": "passport-photo",
+        "name": "Passport Photo",
+        "size": "4x6 cm",
+        "format": "JPG, PNG",
+        "maxFileSize": 500000
+      },
+      {
+        "id": "signature",
+        "name": "Signature",
+        "size": "3x1 cm",
+        "format": "JPG, PNG",
+        "maxFileSize": 300000
+      }
+    ]
+  },
+  {
+    "id": "jee-advanced",
+    "title": "JEE Advanced",
+    "icon": "🎓",
+    "description": "Advanced Engineering Entrance",
+    "documents": [
+      {
+        "id": "passport-photo",
+        "name": "Passport Photo",
+        "size": "4x6 cm",
+        "format": "JPG, PNG",
+        "maxFileSize": 500000
+      },
+      {
+        "id": "signature",
+        "name": "Signature",
+        "size": "3x1 cm",
+        "format": "JPG, PNG",
+        "maxFileSize": 300000
+      }
+    ]
+  },
+  {
+    "id": "bitsat",
+    "title": "BITSAT",
+    "icon": "💻",
+    "description": "BITS Admission Test",
+    "documents": [
+      {
+        "id": "passport-photo",
+        "name": "Passport Photo",
+        "size": "200x250 px",
+        "format": "JPG, PNG",
+        "maxFileSize": 500000
+      },
+      {
+        "id": "signature",
+        "name": "Signature",
+        "size": "140x60 px",
+        "format": "JPG, PNG",
+        "maxFileSize": 300000
+      }
+    ]
+  },
+  {
+    "id": "neet",
+    "title": "NEET",
+    "icon": "🔬",
+    "description": "National Eligibility cum Entrance Test",
+    "documents": [
+      {
+        "id": "passport-photo",
+        "name": "Passport Photo",
+        "size": "4x6 cm",
+        "format": "JPG, PNG",
+        "maxFileSize": 500000
+      },
+      {
+        "id": "signature",
+        "name": "Signature",
+        "size": "3x1 cm",
+        "format": "JPG, PNG",
+        "maxFileSize": 300000
+      }
+    ]
+  },
+  {
+    "id": "nata",
+    "title": "NATA",
+    "icon": "🎨",
+    "description": "National Aptitude Test in Architecture",
+    "documents": [
+      {
+        "id": "passport-photo",
+        "name": "Passport Photo",
+        "size": "3.5x4.5 cm",
+        "format": "JPG, PNG",
+        "maxFileSize": 500000
+      }
+    ]
+  },
+  {
+    "id": "glat",
+    "title": "GLAT",
+    "icon": "⚖️",
+    "description": "Graduate Law Admission Test",
+    "documents": [
+      {
+        "id": "passport-photo",
+        "name": "Passport Photo",
+        "size": "4x6 cm",
+        "format": "JPG, PNG",
+        "maxFileSize": 500000
+      },
+      {
+        "id": "signature",
+        "name": "Signature",
+        "size": "3x1 cm",
+        "format": "JPG, PNG",
+        "maxFileSize": 300000
+      }
+    ]
+  },
+  {
+    "id": "neet-mds",
+    "title": "NEET MDS",
+    "icon": "🦷",
+    "description": "NEET for Dental",
+    "documents": [
+      {
+        "id": "passport-photo",
+        "name": "Passport Photo",
+        "size": "4x6 cm",
+        "format": "JPG, PNG",
+        "maxFileSize": 500000
+      },
+      {
+        "id": "signature",
+        "name": "Signature",
+        "size": "3x1 cm",
+        "format": "JPG, PNG",
+        "maxFileSize": 300000
+      }
+    ]
+  },
+  {
+    "id": "mat",
+    "title": "MAT",
+    "icon": "📋",
+    "description": "Management Aptitude Test",
+    "documents": [
+      {
+        "id": "passport-photo",
+        "name": "Passport Photo",
+        "size": "4x6 cm",
+        "format": "JPG, PNG",
+        "maxFileSize": 500000
+      }
+    ]
+  },
+  {
+    "id": "neet-ug",
+    "title": "NEET UG",
+    "icon": "🏥",
+    "description": "NEET Undergraduate",
+    "documents": [
+      {
+        "id": "passport-photo",
+        "name": "Passport Photo",
+        "size": "4x6 cm",
+        "format": "JPG, PNG",
+        "maxFileSize": 500000
+      },
+      {
+        "id": "signature",
+        "name": "Signature",
+        "size": "3x1 cm",
+        "format": "JPG, PNG",
+        "maxFileSize": 300000
+      }
+    ]
+  },
+  {
+    "id": "fmge",
+    "title": "FMGE",
+    "icon": "👨‍⚕️",
+    "description": "Foreign Medical Graduate Exam",
+    "documents": [
+      {
+        "id": "passport-photo",
+        "name": "Passport Photo",
+        "size": "4x6 cm",
+        "format": "JPG, PNG",
+        "maxFileSize": 500000
+      }
+    ]
+  },
+  {
+    "id": "pgcet",
+    "title": "PGCET",
+    "icon": "🎓",
+    "description": "Postgraduate Common Entrance Test",
+    "documents": [
+      {
+        "id": "passport-photo",
+        "name": "Passport Photo",
+        "size": "4x6 cm",
+        "format": "JPG, PNG",
+        "maxFileSize": 500000
+      },
+      {
+        "id": "signature",
+        "name": "Signature",
+        "size": "3x1 cm",
+        "format": "JPG, PNG",
+        "maxFileSize": 300000
+      }
+    ]
+  },
+  {
+    "id": "gate",
+    "title": "GATE",
+    "icon": "🔧",
+    "description": "Graduate Aptitude Test in Engineering",
+    "documents": [
+      {
+        "id": "passport-photo",
+        "name": "Passport Photo",
+        "size": "150x200 px",
+        "format": "JPG, PNG",
+        "maxFileSize": 500000
+      }
+    ]
+  },
+  {
+    "id": "neet-pg",
+    "title": "NEET PG",
+    "icon": "👨‍⚕️",
+    "description": "NEET Postgraduate",
+    "documents": [
+      {
+        "id": "passport-photo",
+        "name": "Passport Photo",
+        "size": "4x6 cm",
+        "format": "JPG, PNG",
+        "maxFileSize": 500000
+      },
+      {
+        "id": "signature",
+        "name": "Signature",
+        "size": "3x1 cm",
+        "format": "JPG, PNG",
+        "maxFileSize": 300000
+      }
+    ]
+  },
+  {
+    "id": "comedk-uget",
+    "title": "COMEDK UGET",
+    "icon": "🎯",
+    "description": "Consortium of Medical Engineering",
+    "documents": [
+      {
+        "id": "passport-photo",
+        "name": "Passport Photo",
+        "size": "4x6 cm",
+        "format": "JPG, PNG",
+        "maxFileSize": 500000
+      }
+    ]
+  }
+]

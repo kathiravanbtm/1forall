@@ -1,0 +1,234 @@
+[
+  {
+    "id": "jee-main",
+    "title": "JEE Main",
+    "icon": "📚",
+    "description": "Joint Entrance Examination for engineering colleges",
+    "documents": [
+      {
+        "id": "admit-card",
+        "name": "Admit Card",
+        "size": "< 2MB",
+        "format": "PDF",
+        "max_size": 2097152,
+        "required": true
+      },
+      {
+        "id": "photo",
+        "name": "Passport Size Photo",
+        "size": "< 500KB",
+        "format": "JPG, PNG",
+        "max_size": 512000,
+        "required": true
+      },
+      {
+        "id": "id-proof",
+        "name": "ID Proof",
+        "size": "< 3MB",
+        "format": "PDF",
+        "max_size": 3145728,
+        "required": true
+      }
+    ],
+    "created_at": "2024-01-01T00:00:00Z",
+    "updated_at": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "neet",
+    "title": "NEET",
+    "icon": "🔬",
+    "description": "National Eligibility cum Entrance Test for medical",
+    "documents": [
+      {
+        "id": "admit-card",
+        "name": "Admit Card",
+        "size": "< 2MB",
+        "format": "PDF",
+        "max_size": 2097152,
+        "required": true
+      },
+      {
+        "id": "photo",
+        "name": "Passport Size Photo",
+        "size": "< 500KB",
+        "format": "JPG, PNG",
+        "max_size": 512000,
+        "required": true
+      },
+      {
+        "id": "medical-cert",
+        "name": "Medical Certificate",
+        "size": "< 3MB",
+        "format": "PDF",
+        "max_size": 3145728,
+        "required": false
+      }
+    ],
+    "created_at": "2024-01-01T00:00:00Z",
+    "updated_at": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "gate",
+    "title": "GATE",
+    "icon": "🎓",
+    "description": "Graduate Aptitude Test in Engineering",
+    "documents": [
+      {
+        "id": "admit-card",
+        "name": "Admit Card",
+        "size": "< 2MB",
+        "format": "PDF",
+        "max_size": 2097152,
+        "required": true
+      },
+      {
+        "id": "degree-cert",
+        "name": "Degree Certificate",
+        "size": "< 3MB",
+        "format": "PDF",
+        "max_size": 3145728,
+        "required": true
+      }
+    ],
+    "created_at": "2024-01-01T00:00:00Z",
+    "updated_at": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "upsc",
+    "title": "UPSC",
+    "icon": "🏛️",
+    "description": "Union Public Service Commission Examination",
+    "documents": [
+      {
+        "id": "admit-card",
+        "name": "Admit Card",
+        "size": "< 2MB",
+        "format": "PDF",
+        "max_size": 2097152,
+        "required": true
+      },
+      {
+        "id": "photo",
+        "name": "Recent Passport Size Photo",
+        "size": "< 500KB",
+        "format": "JPG, PNG",
+        "max_size": 512000,
+        "required": true
+      }
+    ],
+    "created_at": "2024-01-01T00:00:00Z",
+    "updated_at": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "cat",
+    "title": "CAT",
+    "icon": "📊",
+    "description": "Common Admission Test for MBA",
+    "documents": [
+      {
+        "id": "admit-card",
+        "name": "Admit Card",
+        "size": "< 2MB",
+        "format": "PDF",
+        "max_size": 2097152,
+        "required": true
+      },
+      {
+        "id": "photo",
+        "name": "Photograph",
+        "size": "< 500KB",
+        "format": "JPG, PNG",
+        "max_size": 512000,
+        "required": true
+      },
+      {
+        "id": "degree",
+        "name": "Degree Certificate",
+        "size": "< 3MB",
+        "format": "PDF",
+        "max_size": 3145728,
+        "required": true
+      }
+    ],
+    "created_at": "2024-01-01T00:00:00Z",
+    "updated_at": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "clat",
+    "title": "CLAT",
+    "icon": "⚖️",
+    "description": "Common Law Admission Test",
+    "documents": [
+      {
+        "id": "admit-card",
+        "name": "Admit Card",
+        "size": "< 2MB",
+        "format": "PDF",
+        "max_size": 2097152,
+        "required": true
+      },
+      {
+        "id": "photo",
+        "name": "Photo",
+        "size": "< 500KB",
+        "format": "JPG, PNG",
+        "max_size": 512000,
+        "required": true
+      }
+    ],
+    "created_at": "2024-01-01T00:00:00Z",
+    "updated_at": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "ias",
+    "title": "IAS",
+    "icon": "🎖️",
+    "description": "Indian Administrative Service",
+    "documents": [
+      {
+        "id": "admit-card",
+        "name": "Admit Card",
+        "size": "< 2MB",
+        "format": "PDF",
+        "max_size": 2097152,
+        "required": true
+      },
+      {
+        "id": "photo",
+        "name": "Photograph",
+        "size": "< 500KB",
+        "format": "JPG, PNG",
+        "max_size": 512000,
+        "required": true
+      }
+    ],
+    "created_at": "2024-01-01T00:00:00Z",
+    "updated_at": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "jee-advanced",
+    "title": "JEE Advanced",
+    "icon": "🚀",
+    "description": "Advanced Engineering Entrance Exam",
+    "documents": [
+      {
+        "id": "admit-card",
+        "name": "Admit Card",
+        "size": "< 2MB",
+        "format": "PDF",
+        "max_size": 2097152,
+        "required": true
+      },
+      {
+        "id": "photo",
+        "name": "Photo",
+        "size": "< 500KB",
+        "format": "JPG, PNG",
+        "max_size": 512000,
+        "required": true
+      }
+    ],
+    "created_at": "2024-01-01T00:00:00Z",
+    "updated_at": "2024-01-01T00:00:00Z"
+  }
+]

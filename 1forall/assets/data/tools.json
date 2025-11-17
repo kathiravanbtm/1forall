@@ -1,0 +1,126 @@
+[
+  {
+    "id": "image-converters",
+    "category": "Image",
+    "icon": "🖼️",
+    "tools": [
+      {
+        "id": "png-to-jpg",
+        "name": "PNG to JPG",
+        "description": "Convert PNG images to JPG format",
+        "logo": "🔄"
+      },
+      {
+        "id": "jpg-to-png",
+        "name": "JPG to PNG",
+        "description": "Convert JPG images to PNG format",
+        "logo": "🔄"
+      },
+      {
+        "id": "webp-to-png",
+        "name": "WEBP to PNG",
+        "description": "Convert WEBP images to PNG format",
+        "logo": "🔄"
+      },
+      {
+        "id": "heic-to-jpg",
+        "name": "HEIC to JPG",
+        "description": "Convert HEIC images to JPG format",
+        "logo": "🔄"
+      }
+    ]
+  },
+  {
+    "id": "pdf-converters",
+    "category": "PDF",
+    "icon": "📄",
+    "tools": [
+      {
+        "id": "pdf-to-word",
+        "name": "PDF to Word",
+        "description": "Convert PDF documents to Word format",
+        "logo": "📝"
+      },
+      {
+        "id": "word-to-pdf",
+        "name": "Word to PDF",
+        "description": "Convert Word documents to PDF format",
+        "logo": "📑"
+      },
+      {
+        "id": "pdf-to-image",
+        "name": "PDF to Image",
+        "description": "Convert PDF pages to images",
+        "logo": "📷"
+      },
+      {
+        "id": "image-to-pdf",
+        "name": "Image to PDF",
+        "description": "Convert images to PDF documents",
+        "logo": "📎"
+      }
+    ]
+  },
+  {
+    "id": "audio-converters",
+    "category": "Audio",
+    "icon": "🎵",
+    "tools": [
+      {
+        "id": "mp3-to-wav",
+        "name": "MP3 to WAV",
+        "description": "Convert MP3 audio to WAV format",
+        "logo": "🎧"
+      },
+      {
+        "id": "wav-to-mp3",
+        "name": "WAV to MP3",
+        "description": "Convert WAV audio to MP3 format",
+        "logo": "🎙️"
+      },
+      {
+        "id": "aac-to-mp3",
+        "name": "AAC to MP3",
+        "description": "Convert AAC audio to MP3 format",
+        "logo": "🔊"
+      },
+      {
+        "id": "m4a-to-mp3",
+        "name": "M4A to MP3",
+        "description": "Convert M4A audio to MP3 format",
+        "logo": "🎵"
+      }
+    ]
+  },
+  {
+    "id": "video-converters",
+    "category": "Video",
+    "icon": "🎬",
+    "tools": [
+      {
+        "id": "mp4-to-avi",
+        "name": "MP4 to AVI",
+        "description": "Convert MP4 videos to AVI format",
+        "logo": "🎬"
+      },
+      {
+        "id": "avi-to-mp4",
+        "name": "AVI to MP4",
+        "description": "Convert AVI videos to MP4 format",
+        "logo": "🎥"
+      },
+      {
+        "id": "mov-to-mp4",
+        "name": "MOV to MP4",
+        "description": "Convert MOV videos to MP4 format",
+        "logo": "📹"
+      },
+      {
+        "id": "mkv-to-mp4",
+        "name": "MKV to MP4",
+        "description": "Convert MKV videos to MP4 format",
+        "logo": "🎞️"
+      }
+    ]
+  }
+]
